@@ -10,7 +10,8 @@ Spring based back-end side of a courses management system.
 - --Objects are of classes (Schedule, ClassRoom, Course, Instructor and Slot).
 - --Those objects are related to each other as shown in the ER diagram.
 
- ![alt text](https://raw.githubusercontent.com/Jarjanazy/Courses-management-system/master/ER-diagram.jpg)
+![ER-diagram](https://user-images.githubusercontent.com/29263797/63640719-7c15f880-c6ac-11e9-8c14-3291ada7507d.jpg)
+
  
  
 **The requests (example requests are provided in the zip files using Postman):**
